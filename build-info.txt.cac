@@ -1,0 +1,39 @@
+Programmer in Pocket - Build Information
+========================================
+
+Build Type: Debug (Demo)
+Version: 1.0.0-alpha  
+Target SDK: 34 (Android 14)
+Min SDK: 26 (Android 8.0)
+Build Date: Fri Oct 17 23:31:23 UTC 2025
+
+Features:
+- Monaco Code Editor (WebView based)
+- Python execution via Pyodide
+- JavaScript execution
+- Kotlin script analysis
+- Project management
+- Code snippets library
+- Interactive learning
+- Material 3 UI
+- Arabic language support
+
+Modules:
+- app: Main application
+- editor: Code editor module
+- runtime: Code execution engine
+- snippets: Code snippets library
+- terminal: Terminal emulator
+- projects: Project management
+- auth: Authentication module
+
+Note: This is a development build and requires a proper
+Android build environment to create an installable APK.
+
+للحصول على APK حقيقي:
+1. Install Android Studio
+2. Open this project
+3. Run: Build -> Build APK(s)
+
+Website: https://programmerinpocket.com
+Support: support@programmerinpocket.com
